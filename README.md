@@ -1,0 +1,1 @@
+This project is about my deployment of a wazuh SIEM and the modifications that I made to make it very optimal and efficient for better cyber security. I also wrote an in depth blog post telling the process I took to do this project, and all the trails and steps I went through to achieve this. 
